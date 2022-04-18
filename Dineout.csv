@@ -1,0 +1,176 @@
+Restaurant Name,Locality,Cuisines,Average Cost for Two,Has Table booking,Has Online delivery,Percentage Offer,Aggregate rating
+Tamasha,Connaught Place,"Continental, Asian, North Indian",2000,Yes,No,20,4.2
+Local,Connaught Place,"North Indian, Asian, Continental",2000,Yes,Yes,20,4
+Unplugged Courtyard,Connaught Place,"North Indian, Italian, Chinese, Turkish, Continental",3300,Yes,No,15,4
+The G.T. ROAD,Connaught Place,North Indian,1400,Yes,No,20,4.3
+The Beer Cafe - BIGGIE,Connaught Place,"Finger Food, North Indian, Italian",1250,Yes,No,25,3.8
+Patiala Shahi Soups,Vikaspuri,Mughlai,300,No,No,25,3.1
+Hookups Cafe & Lounge,Delhi University-GTB Nagar,"Chinese, Continental, North Indian",850,Yes,No,15,3.3
+Angeethi Express,Satyaniketan,"North Indian, Chinese, Fast Food",400,No,No,25,3.2
+Zaika Amritsari,Gujranwala Town,North Indian,400,No,No,15,3
+Giani,Karol Bagh,"Ice Cream, Desserts",400,No,Yes,5,2.7
+Chutneez Restaurant Lounge & Bar,IP Extension,"North Indian, Chinese, Mughlai",1200,Yes,Yes,25,2.4
+Tikka- Way,Kalkaji,"North Indian, Chinese",850,No,Yes,5,3.5
+New Vikrant Restaurant,GTB Nagar,"North Indian, Mughlai, Chinese",550,No,No,20,3.5
+Chaayos,"Palate of Delhi, Chanakyapuri","Cafe, Tea",400,No,Yes,15,3.2
+Mikky Peshawari,Pitampura,"North Indian, Mughlai",600,No,Yes,10,2.8
+Jasmine - Hotel The Royal Plaza,"Hotel The Royal Plaza, Janpath","Seafood, Chinese, Japanese, Sushi, Thai",4000,Yes,No,25,3.7
+Biryaniwala,Rajinder Nagar,Biryani,450,No,No,10,2.6
+Punjabi Chaap Corner,East Patel Nagar,North Indian,300,No,Yes,20,3.5
+Green Chick Chop,Munirka,"Raw Meats, North Indian, Fast Food",350,No,No,20,2.9
+Joost Juice Bar,"Epicuria Food Mall, Nehru Place",Juices,300,No,No,20,3.2
+G's Patisserie,Kalkaji,"Bakery, Desserts",600,No,No,10,2.8
+Sona Restaurant,Yusuf Sarai,"North Indian, Mughlai",450,No,No,5,3.2
+The Crust,Shakarpur,"Pizza, Fast Food",500,No,No,10,3.1
+Desee Dakshin Coastal Cafe,Rajouri Garden,"North Indian, Mangalorean, Chinese",1350,Yes,Yes,5,4
+Sunny Chicken Soup,Jail Road,North Indian,200,No,No,20,3.6
+Karim's,Jama Masjid,"Mughlai, North Indian",800,No,No,15,4
+Bengal Sweet Corner,Safdarjung,"North Indian, South Indian, Chinese, Street Food, Mithai",550,No,Yes,25,2.8
+Bikaner Sweets,Sarita Vihar,"Mithai, Street Food",100,No,No,20,3
+Starbucks,Greater Kailash (GK) 2,Cafe,700,No,No,0,3.5
+Jom Jom Malay,"Ansal Plaza Mall, Khel Gaon Marg","Malaysian, Indonesian",1800,No,No,5,4.4
+Standard Sweets,Chawri Bazar,"Mithai, North Indian",200,No,No,5,3.6
+Hot Spot,Netaji Subhash Place,"Fast Food, North Indian, Beverages",400,No,No,15,3.8
+Dzukou Tribal Kitchen,Hauz Khas,Naga,1300,Yes,Yes,10,3.8
+Dimcha,"Epicuria Food Mall, Nehru Place","Chinese, Thai, Asian",1500,Yes,No,20,3.9
+Urban Dhaba,SDA,"North Indian, Chinese, Mughlai",550,No,Yes,15,2.5
+Faasos,Barakhamba Road,"North Indian, Fast Food",600,No,Yes,5,2.8
+Cake Plaza,Kalkaji,"Bakery, Desserts, Fast Food",200,No,Yes,10,3.1
+Mahalaxmi Mishthan Bhandar,Chandni Chowk,"Mithai, Street Food",100,No,No,5,3.3
+Teflas,JNU,"North Indian, Chinese",300,No,No,5,3.4
+Clay 1 Grill,Kirti Nagar,"North Indian, Mughlai",1000,Yes,No,10,3.6
+Taste of Vishal,Mahipalpur,"North Indian, Chinese",900,Yes,No,10,2.9
+Punjabi Vaishno Rasoi,Vasundhara Enclave,North Indian,200,No,No,5,2.9
+Just Cakez,Rajinder Nagar,Bakery,500,No,Yes,15,3.2
+The Yellow Chilli,"V3S Mall, Laxmi Nagar","North Indian, Mughlai",1500,Yes,Yes,20,2.7
+Ricos,Delhi University-GTB Nagar,"Cafe, Mexican, American, Italian, Lebanese, Continental",900,No,No,0,4.3
+Hyderabadi Biryani Parlour,Rajinder Nagar,"Biryani, North Indian",300,No,No,0,2.9
+Wenger's Deli,Connaught Place,"Bakery, Desserts, Fast Food",400,No,No,10,4.3
+Let's Tango,Green Park,"North Indian, Fast Food",400,No,No,20,3
+Giani,Shalimar Bagh,"Ice Cream, Desserts",400,No,No,25,3.3
+Hira Sweets,Janakpuri,"North Indian, South Indian, Street Food, Fast Food, Mithai",600,No,No,25,2.5
+Popular Chicken,Ashok Vihar Phase 1,"North Indian, Mughlai, Chinese",450,No,No,25,3
+Gravies,Hauz Khas,"North Indian, Biryani, Mughlai",700,No,Yes,0,3.3
+Green Chick Chop,Mayur Vihar Phase 1,"Raw Meats, North Indian, Fast Food",350,No,No,5,3.2
+Simple Restaurant,Jangpura,"North Indian, Chinese",500,No,No,20,3
+China Town Sizzlers,Chanakyapuri,Chinese,800,No,No,0,3.4
+Wazwaan Restaurant,Chittaranjan Park,"North Indian, Kashmiri",1200,Yes,No,0,3.2
+Just Chinese,Mayur Vihar Phase 1,Chinese,300,No,Yes,20,2.4
+Moroca,Pitampura,Fast Food,350,No,Yes,20,3.2
+Gola Sizzlers,Connaught Place,"Chinese, North Indian, Mughlai, Continental",1600,No,Yes,25,3
+The Yummy Chilli,"V3S Mall, Laxmi Nagar","Mughlai, North Indian",600,No,No,20,2.9
+Stop My Starvation,Malviya Nagar,"Cafe, Desserts",300,No,Yes,0,4.3
+The Beer Cafe,"Moments Mall, Kirti Nagar","Finger Food, North Indian",1200,Yes,No,10,3.8
+Polka Pastry & Snack Bar,Vikaspuri,"Bakery, Fast Food",350,No,Yes,0,2.7
+F 2 Pastry Shop,Krishna Nagar,"Bakery, Fast Food",150,No,No,10,3.3
+Gupta Chat Corner,Preet Vihar,"Street Food, Mughlai",300,No,No,10,3.3
+Amul Cafe,Vikaspuri,"Desserts, Fast Food",300,No,No,5,3.3
+Meet You There,Shakarpur,"Chinese, North Indian",500,No,No,0,2.6
+QRO Gourmeteriia BY DARK HOUSE KAFE,Satyaniketan,"Cafe, Continental, Italian, Chinese, North Indian",600,No,Yes,10,4.2
+Gokul Foods,Krishna Nagar,"North Indian, Chinese",550,No,No,10,3.6
+Burger Joint,"Crescent Square Mall, Rohini","Fast Food, Burger",300,No,Yes,5,3.5
+Chaat Corner,Hauz Khas,Street Food,100,No,No,0,3.2
+Movenpick,Greater Kailash (GK) 2,"Ice Cream, Desserts",650,No,Yes,25,3.9
+McDonald's,South Extension 1,"Fast Food, Burger",500,No,No,20,3.3
+FIO Country Kitchen and Bar,"Garden of Five Senses, Saket","European, Italian, North Indian",3300,Yes,No,25,4.2
+Country Curries,Defence Colony,"North Indian, Bengali",700,No,Yes,15,2.7
+Chicago Pizza,Netaji Subhash Place,"Fast Food, Italian, Pizza",500,No,Yes,25,3.4
+"Ada ""e"" Haandi's",R K Puram,"North Indian, Mughlai, Chinese",750,No,Yes,20,2.4
+Quote - The Eclectic Bar and Lounge,Connaught Place,"Finger Food, European, North Indian",1700,Yes,No,0,3.5
+The Arena,"Ansal Plaza Mall, Khel Gaon Marg","Continental, Asian, North Indian",1600,Yes,No,0,3.4
+Essex Collections Patisserie,Essex Farms,"Bakery, Desserts, Fast Food",300,No,No,25,3.4
+Tanatan Corner,Uttam Nagar,North Indian,200,No,No,5,2.9
+Artusi Ristorante e Bar,Greater Kailash (GK) 2,Italian,3000,Yes,No,5,4.1
+Evergreen Sweet House,Green Park,"South Indian, North Indian, Chinese, Fast Food, Street Food, Mithai",450,No,No,15,3.5
+Chilli Pepper,"Aggarwal City Plaza, Rohini","North Indian, Chinese",900,Yes,Yes,5,3.3
+Nirula's,Bhikaji Cama Place,"Fast Food, North Indian, Desserts, Ice Cream",1100,No,Yes,0,2.5
+Arora Snacks,Vivek Vihar,Chinese,350,No,No,15,2.8
+Singh Mutton & Chicken Shop,GTB Nagar,"Raw Meats, Fast Food",300,No,No,20,3
+Grillz,Jail Road,Fast Food,500,No,Yes,0,2.2
+The Baking Fusion,Safdarjung,"Bakery, Desserts",400,No,No,20,3.1
+Lotus Pond,New Friends Colony,"Chinese, Seafood, Asian",1800,Yes,Yes,25,4.2
+Ganesha Sweets & Restaurant,Lodhi Colony,"North Indian, Mithai, Street Food",500,No,No,10,2.6
+The Royal Turban,Rajouri Garden,"North Indian, Chinese",1300,Yes,Yes,0,3.8
+Khan's Dilli-6 Biryani,East of Kailash,"Biryani, Mughlai",500,No,No,15,3
+33 Food,Malviya Nagar,"North Indian, Mughlai",700,No,Yes,25,3.2
+Rambhog,"Aggarwal City Mall, Pitampura","Street Food, Mithai",200,No,No,10,3.3
+The Groghead,Green Park,"Italian, North Indian",1700,Yes,No,20,3.4
+Vijay Corner,Tilak Nagar,"North Indian, Mughlai",300,No,No,20,3
+Haldiram's,Chandni Chowk,"North Indian, South Indian, Chinese, Street Food, Fast Food, Mithai, Desserts",600,No,No,10,3.9
+Ricks Bar - The Taj Mahal Hotel,"The Taj Mahal Hotel, Mansingh Road","Malaysian, Thai",4200,Yes,No,10,3.6
+Good Foods,Delhi University-GTB Nagar,"North Indian, Fast Food, Chinese",300,No,No,5,3.3
+Mukesh Chic-Inn Hot & Spice,Jail Road,Mughlai,400,No,Yes,20,3
+Blue Bull Cafe,Delhi University-GTB Nagar,"Cafe, North Indian, Chinese",800,No,No,20,2.8
+Shake Square,Connaught Place,"Beverages, Fast Food",400,No,No,5,3.7
+Gupta's Restaurant,South Extension 2,North Indian,450,No,Yes,10,3.5
+Cafe Grub,"Moments Mall, Kirti Nagar","Chinese, Fast Food",300,No,No,5,3.2
+Shillong View,"Dilli Haat, INA",Chinese,350,No,No,20,3
+Chinese Mania,Mahipalpur,Chinese,300,No,No,20,3.2
+Mumu Dahlin,Jasola,"Continental, North Indian, Chinese, Cafe",1000,Yes,No,10,3.8
+The Artful Baker,Khan Market,"Bakery, Fast Food",600,No,No,0,4
+Spice Grill,Karkardooma,"North Indian, Mughlai, Chinese, Continental",1300,No,Yes,25,3.2
+Mehta Restaurant,Daryaganj,"Street Food, Mithai",150,No,No,25,3.2
+Tandoori Nights,Anand Vihar,"Mughlai, North Indian",650,No,No,20,3
+Frontier,Delhi University-GTB Nagar,"Bakery, Desserts",200,No,No,0,3
+L'Opera,"DLF Promenade Mall, Vasant Kunj","Bakery, Desserts, Fast Food",400,No,Yes,20,3.8
+Assam Food Stall,"Dilli Haat, INA","Assamese, Chinese",400,No,No,20,2.8
+Giani,Punjabi Bagh,"Ice Cream, Desserts",400,No,Yes,20,3.4
+Duggal Snacks,Mayur Vihar Phase 2,Street Food,50,No,No,0,3.6
+Bobby Tikki Wala,Anand Vihar,Street Food,150,No,No,5,2.8
+Gole Hatti,Chandni Chowk,North Indian,150,No,No,15,3.8
+Golden Tandoor,Rajouri Garden,"North Indian, Chinese",700,No,No,20,3.2
+Flavourz,Lajpat Nagar 1,Fast Food,150,No,Yes,10,3.3
+Punjabi Angithi,Paschim Vihar,"North Indian, South Indian, Chinese",400,No,No,10,3.3
+Domino's Pizza,Laxmi Nagar,"Pizza, Fast Food",700,No,No,20,2.6
+Ira - The Waterside Bar - ITC Maurya,"ITC Maurya, Chanakyapuri",Finger Food,2000,No,No,10,3.2
+Janta Sweets,Paharganj,"Street Food, Mithai",200,No,No,5,3
+BTW,Pitampura,"Street Food, South Indian",400,No,No,10,2.8
+Subway,Greater Kailash (GK) 1,"American, Fast Food, Salad, Healthy Food",500,No,Yes,0,2.5
+Oberoi's,Defence Colony,"North Indian, Mughlai",450,No,No,25,3.2
+Tripti,Mahipalpur,"North Indian, Chinese, Mughlai, South Indian",1000,Yes,No,25,3.1
+Cake o' Cuisine,Ashok Vihar Phase 3,Bakery,300,No,No,25,3.3
+Ambrosia Bliss,Connaught Place,"North Indian, Chinese, Italian, Continental",1800,Yes,No,25,4
+The Coffee Garage,Shahpur Jat,Cafe,800,No,No,20,3.4
+Ramchander Bhalushahi Wale,Shahdara,Mithai,150,No,No,0,3.2
+Angels in my Kitchen,Greater Kailash (GK) 2,"Bakery, Desserts, Fast Food",350,No,Yes,15,2.9
+The Kathis,PVR Anupam Complex,"Fast Food, North Indian",300,No,Yes,15,2.4
+Diva - The Italian Restaurant,Greater Kailash (GK) 2,Italian,2500,Yes,Yes,0,3.8
+The Great Indian Food Truck,Jail Road,"Chinese, Mexican, Italian",250,No,No,10,3
+The Host,Model Town 2,Chinese,450,No,No,15,2.7
+Master Bakers,Ashok Vihar Phase 1,"Bakery, Desserts, Chinese, Fast Food",350,No,Yes,15,3.7
+JAIL - Behind The Bar,Model Town 2,"North Indian, Chinese, Continental, Italian",1600,Yes,Yes,5,4.1
+Admission Lounge,New Friends Colony,"North Indian, Continental, Chinese, Fast Food",2500,Yes,No,10,2.7
+The Junkyard Cafí©,Rajouri Garden,"North Indian, Mediterranean, Asian",1400,Yes,No,25,3.8
+Behrouz Biryani,Lajpat Nagar 2,Biryani,600,No,Yes,25,3
+Cake Palace,Vikaspuri,Bakery,200,No,No,10,2.7
+Ooh Lala !,"DLF Promenade Mall, Vasant Kunj","American, Fast Food, Desserts",500,No,No,0,4
+Hey' Sugar Delhi,Saket,"Bakery, Desserts",500,No,No,10,3.7
+Jughead's Fast Food Corner,Uday Park,"Chinese, Fast Food, North Indian",500,No,Yes,10,3.6
+Thok (The House of Kakori),Malviya Nagar,"North Indian, Mughlai, Chinese",600,No,Yes,10,3.4
+Colonel's Kababz,R K Puram,"North Indian, Mughlai",900,Yes,Yes,20,3.2
+Big Chill,Khan Market,"Italian, Continental, European, Cafe",1500,No,No,15,4.6
+Lumbini Fast Point,Mayur Vihar Phase 3,"Chinese, Fast Food",400,No,No,25,3
+Sri Kamakshi Vilas,Lajpat Nagar 1,"South Indian, North Indian",400,No,No,25,2.7
+New Bengal Sweets,Greater Kailash (GK) 1,"Chinese, South Indian, Fast Food",250,No,No,10,3.1
+McDonald's,Chandni Chowk,"Fast Food, Burger",500,No,No,15,3
+RoadRomeo,Defence Colony,"North Indian, Hyderabadi, Kashmiri, Chinese",1650,Yes,Yes,20,4
+Laxmi Vaishno Dhaba,Laxmi Nagar,North Indian,300,No,No,5,3
+Chawla Kitchen,Paschim Vihar,"North Indian, Mughlai, Chinese",600,No,Yes,20,3.3
+Spicy Duck - Taj Palace Hotel,"The Taj Palace Hotel, Chanakyapuri",Asian,4000,Yes,No,25,3.5
+Biryani Blues,Malviya Nagar,"Biryani, Hyderabadi",1000,No,Yes,15,3.9
+Milk n More,Chawri Bazar,"Desserts, Street Food",100,No,No,5,3.1
+Bake Day,Satyaniketan,"Bakery, Fast Food",400,No,Yes,15,3.2
+RK Dosa,Naraina,South Indian,150,No,No,25,2.8
+Cafe Coffee Day,Barakhamba Road,Cafe,450,No,No,10,2.9
+Kolkata Kathi Roll,Malviya Nagar,Fast Food,150,No,No,25,3.6
+Moti Mahal,Daryaganj,"North Indian, Chinese",1100,Yes,No,0,3.6
+Nachos And Company,Green Park,Mexican,700,No,No,0,3.4
+Pizza Yum,Palam,"Pizza, Fast Food",650,No,No,5,2.7
+Bun Intended,Malviya Nagar,"Burger, American, Fast Food",850,No,Yes,20,3.9
+Ghar Bistro Cafe,Rajouri Garden,"Continental, North Indian, Chinese, Mughlai, Asian",800,Yes,No,10,4.4
+Khan Chicken Biryani,New Friends Colony,North Indian,500,No,No,20,2.9
+Garam Dharam,Connaught Place,North Indian,1300,No,Yes,20,3.4
+Bhukkad,Satyaniketan,North Indian,500,No,Yes,5,3.2
+Frozen Pan,Kamla Nagar,"Ice Cream, Fast Food, Beverages",250,No,No,5,3.9
+Shree Balaji Chaat Bhandar,Chandni Chowk,Street Food,100,No,No,0,3.2
+Wah Ji Wah,Mayur Vihar Phase 2,"North Indian, Fast Food",400,No,Yes,5,3.1
